@@ -3,6 +3,7 @@ import {
   Redirect,
   BrowserRouter as Router,
   Route,
+  useParams,
 } from 'react-router-dom';
 
 import styles from './App.css';
