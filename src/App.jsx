@@ -4,6 +4,7 @@ import {
   BrowserRouter as Router,
   Route,
   useParams,
+  Switch,
 } from 'react-router-dom';
 
 import styles from './App.css';
